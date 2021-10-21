@@ -3,7 +3,6 @@ library(ggmap)
 library(ggplot2)
 library(rstudioapi)
 library(sp)
-library(wesanderson)
 
 #Register Google API
 register_google(key = '')
